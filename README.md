@@ -55,7 +55,7 @@ If for debug reason you want to play all the messages in loop, multiple times, y
 mqtt-stereo --url iot-mqtt.com --port 1884 --record IoT_log.txt play --loop
 ```
 
-Finally if for benchmark reason you want to run all the messages as fast as possible you can use the fast-forward reason.
+Finally if for benchmark reason you want to run all the messages as fast as possible you can use the fast-forward subcommand.
 
 ```bash
 mqtt-stereo --url iot-mqtt.com --port 1884 --record IoT_log.txt play --ff
