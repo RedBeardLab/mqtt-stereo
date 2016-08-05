@@ -65,6 +65,6 @@ Of course the `--loop` and the `--ff` subcommand can be used together.
 
 ## Motivation
 
-At [RedBeardLab.tech](redbeardlab.tech) we are getting a lot of exposure and experience about IoT and MQTT, but we didn't found any suitable tool for debugging and record MQTT messages and mqtt-stereo is our solution to this problem.
+At [RedBeardLab.tech](http://redbeardlab.tech) we are getting a lot of exposure and experience about IoT and MQTT, but we didn't found any suitable tool for debugging and record MQTT messages and mqtt-stereo is our solution to this problem.
 
 Of course this is a very simple implementation, lacking many features, feel free to contribute or open an issue.
