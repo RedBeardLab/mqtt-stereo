@@ -6,7 +6,7 @@ import (
 
 	"github.com/urfave/cli"
 
-	"github.com/siscia/mqtt-player/backend"
+	"github.com/redbeardlab/mqtt-stereo/backend"
 )
 
 func main() {
